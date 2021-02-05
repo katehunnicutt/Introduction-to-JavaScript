@@ -128,6 +128,7 @@ function hungryDog(weight, age){
 console.log(hungryDog(15, 1));
 
 
+
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 4 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
 
 // Rock, Paper, Scissors - Let's play against the computer!
